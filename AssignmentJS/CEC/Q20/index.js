@@ -130,4 +130,8 @@ account.getTransactionHistory(); // shows all transactions
 //       Each deposit/withdraw pushes a message into this array.
 //       The function getTransactionHistory() returns or logs this array.
 //       Because of closures, the history is also private and can only be
+<<<<<<< HEAD
 //       read through this function.
+=======
+//       read through this function.
+>>>>>>> 3c745dd951a9ff2565e5c2b7003279bab704d93c
